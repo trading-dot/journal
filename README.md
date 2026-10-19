@@ -1,5 +1,5 @@
 # Trading Journal (GitHub Pages + Firebase)
-
+ 
 ## 1. Firebase Console (project `pertemuan-5-f5c9c`)
 1. **Authentication → Sign-in method**: aktifkan **Google** dan **Email/Password**.
 2. **Authentication → Settings → Authorized domains**: tambahkan `USERNAME.github.io`.
